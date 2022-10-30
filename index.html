@@ -83,6 +83,15 @@
             <p>px</p>
           </div>
         </div>
+        <div class="form-control">
+          <div class="range">
+            <label for="color">Cor da Sombra</label>
+            <input type="color" name="color" id="color" value="#000000" />
+          </div>
+          <div class="reference">
+            <input type="text" name="color-value" id="color-value" value="" />
+          </div>
+        </div>
       </div>
       <div id="preview">
         <h2>Preview do efeito gerado:</h2>
@@ -90,12 +99,15 @@
       </div>
     </div>
     <div id="generated">
-      <h2>Copie e cole no seu arquivo de CSS:</h2>
+      <h2>Copie e cole no seu arquivo CSS:</h2>
     </div>
     <div id="rules">
-      <p id="rule">box-shadow <span></span></p>
-      <p id="webkit-rule">-webkit-box-shadow <span></span></p>
-      <p id="moz-rule">-moz-box-shadow <span></span></p>
+      <p id="rule">box-shadow: <span></span>;</p>
+      <p id="webkit-rule">-webkit-box-shadow: <span></span>;</p>
+      <p id="moz-rule">-moz-box-shadow: <span></span>;</p>
+    </div>
+    <div id="clipBoard">
+      <p>Clique no quadro acima para copiar as regras</p>
     </div>
   </body>
 </html>
