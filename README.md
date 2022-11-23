@@ -19,7 +19,7 @@ Desenvolvido com HTML, CSS e Javascript.
 Inicialmente utilizado HTML e suas tags semânticas para montagem do corpo da página. No CSS, utilizado recursos para estilização, efeitos animados para garantir uma experiência ao usuário mais eficaz. Além de criar a aplicação de maneira responsiva. E por fim, utilizado Javascript para criação de funções e callbacks, criação de eventos e manipulação do DOM. Feito o empacotamento de módulos através do webPack e o compilador Babel para converter código do JS moderno em versões compatíveis para rodar em navegadores antigos.
   
  
- <p dir="auto">Link para acessar o projeto: <a target="_blank" href="https://alecamargo77.github.io/Portfolio-Projetos/"> Box Shadow </a></p>
+ <p dir="auto">Link para acessar o projeto: <a target="_blank" href="https://alecamargo77.github.io/BoxShadow/"> Box Shadow </a></p>
  
  Interface:
 ![BoxShadow](https://user-images.githubusercontent.com/105398640/199146411-fede5da3-4cf9-4aee-a9b8-71ed32bc5a3a.gif)
